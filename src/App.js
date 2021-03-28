@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 function App() {
   return (
     <div className="App">
-       <LandingPage/>
+      <LandingPage/>
     </div>
   );
 }
